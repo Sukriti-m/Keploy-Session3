@@ -1,0 +1,9 @@
+*{text-align: center;}
+h1{font-size:3em;
+color: rgb(42, 47, 116);}
+th{font-size:2em;
+text-decoration:underline;
+color: rgb(102, 52, 150);
+}
+td{font-size:1.5em;
+    color:wheat;}
